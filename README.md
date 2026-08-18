@@ -46,8 +46,8 @@ I enjoy building and testing practical software systems, with a focus on reliabl
 ## Connect
 
 - GitHub: https://github.com/ajithram2003
-- LinkedIn: Add your LinkedIn profile here
-- Portfolio: Add your portfolio URL here
+- LinkedIn: https://github.com/ajithram2003
+- Portfolio: https://ajithram2003.github.io/
 
 ---
 
