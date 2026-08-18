@@ -2,7 +2,23 @@
 
 **MSc Data Science | Python | AI/ML | Software & Platform Engineering**
 
-I am a Data Science postgraduate with hands-on experience in Python development, machine learning, API testing, cloud-platform testing, and containerized applications.
+## Profile Summary
+
+MSc Integrated Data Science student with hands-on experience in **backend development, cloud platforms, software testing, automation, and machine learning**. Experienced in building and testing scalable applications using **Python, Kubernetes, Flask, Django, FastAPI, Postman, GitLab CI/CD, and AWS**. Passionate about solving real-world problems through data-driven solutions, reliable software, and intelligent systems.
+
+## Education
+
+### 🎓 Coimbatore Institute of Technology — Coimbatore
+**MSc (Integrated) Data Science**  
+*September 2021 – May 2026*  
+**CGPA: 7.92**
+
+### 🏫 Tagore Matric Higher Secondary School — Attur, Salem
+**HSC — 88.53%**  
+*2021*
+
+**SSLC — 93.2%**  
+*2019*
 
 ## About Me
 
